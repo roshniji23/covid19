@@ -1,0 +1,819 @@
+/* Tablet Screen */
+@media screen and (min-width:400px) and (max-width:850px)
+{
+    #container
+    {
+        width: 100%;
+        min-height: auto;
+        margin: auto;
+    }
+    #header
+    {
+        width: 100%;
+        height: 150px;
+    }
+    #header .p1
+    {
+        width: 100%;
+        height: 50px;
+        background: #2f3640;
+        float: left;
+    }
+    #header .p1 .form
+    {
+        line-height: 50px;
+       
+    }
+    #header .p2
+    {
+        width: 100%;
+        height: 100px;
+        background: red;
+        float: left;
+    }
+    #header .p2 ui 
+    {
+        list-style: none;
+       
+    }
+    #header .p2 ui li 
+    {
+        float: right;
+        line-height: 70px;
+        text-decoration: none;
+        padding: 0px 35px;
+    }
+    #header .p2 ui li a
+    {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+    }
+    #header .p2 ui li:hover
+    {
+        background: tomato;
+    }
+    #box1
+    {
+        width: 100%;
+        height: 400px;
+        background: url('rajabhoj5.jpg');
+        margin: auto;
+    }
+    #box1 .p1
+    {
+        width: 100%;
+        min-height: 100px;   
+    }
+    #box1 .p1 .h
+    {
+        padding-top: 30px;
+       
+        padding-left: 450px;
+        text-decoration: underline;
+        font-size: 25px;
+        color: green;
+    }
+    #box1 .p2
+    {
+        width: 100%;
+        min-height: 300px;   
+    }
+    #box1 .p2 .h
+    {
+        padding-left: 490px;
+        color: red;
+        text-decoration: underline;
+        padding-top: 60px;
+        font-size: xx-large;
+      
+    }
+    #box1 .p2 .p
+    {
+        padding-left: 500px;
+        padding-top: 20px;
+        font-size: larger;
+    }
+    #box2
+    {
+        width: 100%;
+        min-height: 600px;
+    }
+    #box2 .p1 .v1
+    {
+        width: 50%;
+        height: 600px;
+        float: left;
+    }
+    #box2 .p1 .hi
+    {
+        color: black;
+    }
+    #box2 .p2 .v1
+    {
+        width: 50%;
+        height: 600px;
+        float: left;
+    }
+    #box3
+    {
+        width: 100%;
+        min-height: 250px;
+    }
+    #box3 .p1
+    {
+        width: 20%;
+        min-height: 250px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box3 .p1 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p1 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p1 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box3 .p1 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box3 .p2
+    {
+        width: 20%;
+        min-height: 250px;
+     background: #2f3640;
+        float: left;
+    
+    }
+    #box3 .p2 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p2 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p2 ui li a
+    {
+        text-decoration: none;
+        color: whitesmoke;
+    }
+    #box3 .p2 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box3 .p3
+    {
+        width: 20%;
+        min-height: 250px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box3 .p3 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p3 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p3 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box3 .p3 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box3 .p4
+    {
+        width: 20%;
+        min-height: 250px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box3 .p4 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p4 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p4 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box3 .p4 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box3 .p5
+    {
+        width: 20%;
+        min-height: 250px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box3 .p5 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p5 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p5 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box3 .p5 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box4 
+    {
+        width: 100%;
+        min-height: 200px;
+    }
+    #box4 .p1
+    {
+        width: 20%;
+        min-height: 200px;
+        background: #2f3640;
+        float: left;
+    
+    }
+    #box4 .p1 h2
+    {
+        padding-left: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box4 .p1 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box4 .p1 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box4 .p1 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box4 .p2
+    {
+        width: 20%;
+        min-height: 200px;
+     background: #2f3640;
+        float: left;
+    
+    }
+    #box4 .p2 h2
+    {
+        padding-left: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box4 .p2 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box4 .p2 ui li a
+    {
+        text-decoration: none;
+        color: whitesmoke;
+    }
+    #box4 .p2 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box4 .p3
+    {
+        width: 20%;
+        min-height: 200px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box4 .p3 h2
+    {
+        padding-left: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box4 .p3 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box4 .p3 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box4 .p3 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box4 .p4
+    {
+        width: 20%;
+        min-height: 200px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box4 .p4 h2
+    {
+        padding-left: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box4 .p4 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box4 .p4 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box4 .p4 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box4 .p5
+    {
+        width: 20%;
+        min-height: 200px;
+        background-color: #2f3640;
+        float: left;
+    
+    }
+    #footer
+    {
+        width: 100%;
+        min-height: 50px;
+        background: #2f3640;
+    }
+    #footer p
+    {
+        color: whitesmoke;;
+        font-size: 20px;
+        line-height: 50px;
+    }  
+    
+    
+    
+   /* Phone Screen */ 
+@media screen and (max-width:500px)
+{
+    #header
+    {
+        width: 100%;
+        min-height: 370px;
+    }
+    #header .p1
+    {
+        width: 100%;
+        min-height: 70px;
+        background: #2f3640;
+    }
+    #header .p1 .form
+    {
+        line-height: 70px;
+       
+    }
+    #header .p2
+    {
+        width: 100%;
+        min-height: 300px;
+        background: #2f3640;
+    }
+    #header .p2 ui 
+    {
+        list-style: none;
+       
+    }
+    #header .p2 ui li 
+    {
+        line-height: 100px;
+        text-decoration: none;
+        padding: 0px 45px;
+    }
+    #header .p2 ui li a
+    {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        float: right;
+    }
+    #header .p2 ui li:hover
+    {
+        background: red;
+    }
+    #box1
+    {
+        width: 100%;
+        height: 400px;
+        margin: auto;
+        background-image: url('rajabhoj6.jpg');
+    }
+    #box1 .p1 
+    {
+        width: 100%;
+        height: 100px;
+        background: wheat;
+    }
+    #box1 .p1 .h
+    {
+        font-size: 40px;
+        line-height: 100px;
+        padding-left: 70px;
+    }
+    #box1 .p2
+    {
+        width: 100%;
+        height: 300px ;
+        background: white;
+    }
+    #box1 .p2 .h
+    {
+        font-size: 30px;
+        padding-left: 70px; 
+    }
+    #box1 .p2 .p
+    {
+        font-size: larger;
+        padding-left: 70px; 
+    }
+    #box2
+    {
+        width: 100%;
+        min-height: 300px;
+    }
+    #box2 .p1 .v1
+    {
+        width: 100%;
+        height: 300px;
+    }
+    #box2 .p1 .hi
+    {
+        color: black;
+    }
+    #box2 .p2 .v1
+    {
+        width: 100%;
+        height: 300px; 
+    }
+    #box3
+    {
+        width: 100%;
+        min-height: 250px;
+    }
+    #box3 .p1
+    {
+        width: 33.33%;
+        min-height: 150px;
+       background: #2f3640;
+       float: left;
+    }
+    #box3 .p1 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p1 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p1 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box3 .p1 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box3 .p2
+    {
+        width: 66.67%;
+        min-height: 150px;
+     background: #2f3640;
+        float: left;
+    
+    }
+    #box3 .p2 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p2 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p2 ui li a
+    {
+        text-decoration: none;
+        color: whitesmoke;
+    }
+    #box3 .p2 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box3 .p3
+    {
+        width: 33.33%;
+        min-height: 250px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box3 .p3 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p3 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p3 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box3 .p3 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box3 .p4
+    {
+        width: 33.33%;
+        min-height: 250px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box3 .p4 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p4 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p4 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box3 .p4 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box3 .p5
+    {
+        width: 33.34%;
+        min-height: 250px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box3 .p5 h2
+    {
+        padding-left: 50px;
+        padding-top: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box3 .p5 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box3 .p5 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box3 .p5 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }#box4 
+    {
+        width: 100%;
+        min-height: 200px;
+    }
+    #box4 .p1
+    {
+        width: 33.33%;
+        min-height: 200px;
+        background: #2f3640;
+        float: left;
+    
+    }
+    #box4 .p1 h2
+    {
+        padding-left: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box4 .p1 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box4 .p1 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box4 .p1 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box4 .p2
+    {
+        width: 33.33%;
+        min-height: 200px;
+     background: #2f3640;
+        float: left;
+    
+    }
+    #box4 .p2 h2
+    {
+        padding-left: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box4 .p2 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box4 .p2 ui li a
+    {
+        text-decoration: none;
+        color: whitesmoke;
+    }
+    #box4 .p2 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box4 .p3
+    {
+        width: 33.34%;
+        min-height: 200px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box4 .p3 h2
+    {
+        padding-left: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box4 .p3 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box4 .p3 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box4 .p3 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box4 .p4
+    {
+        width: 33.33%;
+        min-height: 200px;
+       background: #2f3640;
+        float: left;
+    
+    }
+    #box4 .p4 h2
+    {
+        padding-left: 50px;
+        font-size: 40px;
+        color: whitesmoke;
+    }
+    #box4 .p4 ui li
+    {
+        list-style: none;
+        padding-left: 50px;
+        font-size: 20px;
+    }
+    #box4 .p4 ui li a
+    {
+        text-decoration: none; 
+        color: whitesmoke;
+    }
+    #box4 .p4 ui li a:hover
+    {
+        color: rgb(224, 64, 117);
+    }
+    #box4 .p5
+    {
+        width: 66.67%;
+        min-height: 200px;
+        background-color: #2f3640;
+        float: left;
+    
+    }
+    #footer
+    {
+        width: 100%;
+        min-height: 50px;
+        background: #2f3640;
+    }
+    #footer p
+    {
+        color: whitesmoke;;
+        font-size: 20px;
+        line-height: 50px;
+    }
+    
+
+
+
+
+
+}
+

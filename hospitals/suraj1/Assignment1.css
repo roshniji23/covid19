@@ -1,0 +1,518 @@
+body
+{
+background-image: url('b2.jpg'); 
+}
+#container
+{
+	width: 100%;
+	height: auto;
+	margin: auto;
+}
+#header
+{
+	width: 100%;
+	height: 70px;
+	background: #FF0040;
+}
+#header .head1
+{
+	width: 40%;
+	height: 70px;
+	background: green;
+	float: left;
+}
+#header.head1 h1
+{
+	line-height: 70px;
+   
+}
+#header .head2
+{
+	width: 60%;
+	height: 70px;
+	background: darkblue;
+	float:left;
+}
+#header .head2 .form
+{
+	line-height: 70px;
+
+}
+#menu
+{
+	width: 100%;
+	min-height: 700px;
+	background-size: cover;
+	background-image: url('b1.jpg');
+}
+#menu ul
+{
+	list-style: none;
+}
+#menu ul li 
+{
+    float: left;
+    text-decoration: none;
+    padding: 0px 35px;
+    padding-top: 40px;
+}
+#menu ul li a
+{
+    text-decoration: none;
+    font-size: 25px;
+    line-height: 50px;
+}
+#menu  ul li a:hover
+{
+    color: yellow;
+}
+#box1
+{
+	width: 50%;
+	height: 400px;
+	padding-top: 50px;
+}
+#box1 .d1
+{
+	padding-left: 400px;
+   width: 100%;
+   text-align: center;
+   font-size: 25px;
+   color: white;
+}
+#diptee
+{
+	width: 100%;
+	min-height: auto;
+	background: #FE642E;
+}
+#box2 
+{
+	width: 100%;
+	height: 500px;
+	background: #F7FE2E;
+}
+#box2 .d1
+{
+	width: 100%;
+	height: 100px;
+    background: #01DFD7;
+}
+#box2 .d1 h2
+{
+	padding-bottom: 10px;
+	font-size: 40px;
+	line-height: 100px;
+	text-align: center;
+	text-decoration: underline;
+}
+#box2 .d2
+{
+	width: 50%;
+	height: 400px;
+	background: red;
+	float: left;
+}
+#box2 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: #FF00BF;
+	float: left;
+}
+#box2 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+	font-style: italic;
+}
+#box3
+{
+	width: 100%;
+	height: 400px;
+	background: #F7FE2E;
+	padding-top: 50px;
+}
+
+#box3 .d2
+{
+	width: 50%;
+	height: 400px;
+	float: left;
+}
+#box3 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: #FE2E64;
+	float: left;
+}
+#box3 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+	font-style: italic;
+}
+#box4
+{
+	width: 100%;
+	height: 400px;
+	background: #F7FE2E;
+	padding-top: 0px;
+}
+
+#box4 .d2
+{
+	width: 50%;
+	height: 400px;
+	float: left;
+	background-size: cover;
+}
+#box4 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: #8000FF;
+	float: left;
+}
+#box4 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+}
+#rinkee
+{
+	width: 100%;
+	min-height: auto;
+	background: white;
+}
+#box5 
+{
+	width: 100%;
+	height: 500px;
+	background: #FE642E;
+}
+#box5 .d1
+{
+	width: 100%;
+	height: 100px;
+    background: white;
+}
+#box5 .d1 h2
+{
+	padding-bottom: 10px;
+	font-size: 40px;
+	line-height: 100px;
+	text-align: center;
+	text-decoration: underline;
+}
+#box5 .d2
+{
+	width: 50%;
+	height: 400px;
+	background: red;
+	float: right;
+}
+#box5 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: green;
+	float: right;
+}
+#box5 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+	font-style: italic;
+}
+#box6
+{
+	width: 100%;
+	height: 400px;
+	background: white;
+	padding-top: 40px;
+}
+
+#box6 .d2
+{
+	width: 50%;
+	height: 400px;
+	float: right;
+}
+#box6 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: green;
+	float: right;
+}
+#box6 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+	font-style: italic;
+}
+#box7
+{
+	width: 100%;
+	height: 400px;
+	background: white;
+	padding-top: 40px;
+}
+
+#box7 .d2
+{
+	width: 50%;
+	height: 400px;
+	float: right;
+	background-size: cover;
+}
+#box7 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: green;
+	float: right;
+}
+#box7 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+	font-style: italic;
+}
+#suraj
+{
+	width: 100%;
+	min-height: auto;
+	background: #FE642E;
+}
+#box8 
+{
+	width: 100%;
+	height: 500px;
+	background: white;
+}
+#box8 .d1
+{
+	width: 100%;
+	height: 100px;
+    background: #01DFD7;
+}
+#box8 .d1 h2
+{
+	padding-bottom: 10px;
+	font-size: 40px;
+	line-height: 100px;
+	text-align: center;
+	text-decoration: underline;
+}
+#box8 .d2
+{
+	width: 50%;
+	height: 400px;
+	background: red;
+	float: left;
+}
+#box8 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: #FF00BF;
+	float: left;
+}
+#box8 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+	font-style: italic;
+}
+#box9
+{
+	width: 100%;
+	height: 400px;
+	background: white;
+	padding-top: 50px;
+}
+
+#box9 .d2
+{
+	width: 50%;
+	height: 400px;
+	float: left;
+}
+#box9 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: #FE2E64;
+	float: left;
+}
+#box9 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+	font-style: italic;
+}
+#box10
+{
+	width: 100%;
+	height: 400px;
+	background: white;
+	padding-top: 50px;
+}
+
+#box10 .d2
+{
+	width: 50%;
+	height: 400px;
+	float: left;
+	background-size: cover;
+}
+#box10 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: #8000FF;
+	float: left;
+}
+#box10 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+}
+#roshni
+{
+	width: 100%;
+	min-height: auto;
+	background: #FE642E;
+}
+#box11 
+{
+	width: 100%;
+	height: 500px;
+	background: white;
+}
+#box11 .d1
+{
+	width: 100%;
+	height: 100px;
+    background: #01DFD7;
+}
+#box11 .d1 h2
+{
+	padding-bottom: 10px;
+	font-size: 40px;
+	line-height: 100px;
+	text-align: center;
+	text-decoration: underline;
+}
+#box11 .d2
+{
+	width: 50%;
+	height: 400px;
+	background: red;
+	float: left;
+}
+#box11 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: #FF00BF;
+	float: left;
+}
+#box11 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+	font-style: italic;
+}
+#box12
+{
+	width: 100%;
+	height: 400px;
+	background: white;
+	padding-top: 50px;
+}
+
+#box12 .d2
+{
+	width: 50%;
+	height: 400px;
+	float: left;
+}
+#box12 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: #FE2E64;
+	float: left;
+}
+#box12 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+	font-style: italic;
+}
+#box13
+{
+	width: 100%;
+	height: 400px;
+	background: white;
+	padding-top: 50px;
+}
+
+#box13 .d2
+{
+	width: 50%;
+	height: 400px;
+	float: left;
+	background-size: cover;
+}
+#box13 .d3
+{
+	width: 50%;
+	height: 400px;
+	background: #8000FF;
+	float: left;
+}
+#box13 .d3 p
+{
+	font-size:25px;
+	padding-top: 50px;
+	padding-left: 25px;
+	color: white;
+}
+#footer
+{
+	width: 100%;
+	height: 80px;
+}
+#footer p
+{
+	line-height: 80px;
+	color: white;
+	text-align: center;
+}
